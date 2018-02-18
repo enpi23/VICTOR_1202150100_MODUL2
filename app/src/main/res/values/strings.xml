@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">VICTOR_1202150100_MODUL2</string>
+    <string name="detail_customer">Detail Customer:</string>
+    <string name="identitas_pemesan">Identitas Pemesan:</string>
+
+    <string name="nasgor">Nasi, Ayam, Seafood, Sayur</string>
+    <string name="miegor">Mie, Sayuran, Daging, Seafood</string>
+    <string name="mieku">Mie, Telur, Sosis, Bakso, Sayuran</string>
+    <string name="miekuupn">Mie, Telur, Dading, Sayuran</string>
+    <string name="kwetiau">Mie, Sayuran, Daging, Bakso</string>
+    <string name="satemad">Nasi, Sate, Bawang, Kecap</string>
+    <string name="satetaic">Nasi, Sate, Daging, Seafood</string>
+    <string name="cimin">Barbeque, Keju Manis, Sapi Panggang</string>
+</resources>
